@@ -1,5 +1,5 @@
 # Masiello_group
-This repository contains program packages that are often used by the Masiello group members. 
+This repository contains program packages that are often used by the group members of the Masiello group at University of Washington, http://faculty.washington.edu/masiello/Masiello_Group_Website/Home.html. 
 
 All "src*" program packages are written in Fortran, "tDDA*" are in-house program packages written in C, and "MNPBEM17" is a toolbox 
 written in MATLAB.
